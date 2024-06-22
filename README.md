@@ -1,8 +1,4 @@
-Здрасте я смузик
-Мы тут делаем ресурспаки
-и шрифты
-А ТО КОДИРОВАТЬ Я НЕ УМЕЮ)
-Я ребёнок, учусь в школе, я бомжъ, поэтому делаю на 500МБ (не больше)
+Научились кодировать
 
 <!---
 SmuziCodeC/SmuziCodeC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
